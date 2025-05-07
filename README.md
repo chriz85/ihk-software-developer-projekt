@@ -51,4 +51,4 @@ Christopher.Haase@me.com
 
 ---
 
-> 📌 **Hinweis:** Die enthaltenen Dateien wurden von sensiblen Daten bereinigt. Der Quellcode ist als Demo-Version ohne produktive Unternehmensdaten veröffentlicht.
+> **Hinweis:** Die enthaltenen Dateien wurden von sensiblen Daten bereinigt. Der Quellcode ist als Demo-Version ohne produktive Unternehmensdaten veröffentlicht.
